@@ -5,6 +5,6 @@ def main():
 
     average = (first + second) / 2
 
-    print('The avergae is ' + str(average))
+    print('The average is ' + str(average))
 if __name__ == '__main__':
     main()
